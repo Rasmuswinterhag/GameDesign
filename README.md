@@ -17,3 +17,8 @@ Like beatsaber, but you are a mage that is fighting against diffrent enemies, in
 The enemy sends attacks towards you and you need to block them. When "hitting" a "note" you shoot a spell towards your enemy.
 
 ![Battlemage Training](BattlemageTraining/Battle%20MageTraining.png)
+
+## Erasure
+#### Need. More. Space
+
+![Erasure](erasure/erasure.png)
