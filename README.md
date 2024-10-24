@@ -21,4 +21,4 @@ The enemy sends attacks towards you and you need to block them. When "hitting" a
 ## Erasure
 #### Need. More. Space
 
-![Erasure](erasure/erasure.png)
+![Erasure](Erasure/erasure.png)
