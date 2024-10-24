@@ -9,7 +9,7 @@ A spy hitman type game
 ## Camp Hillberry Labratories
 #### Stay out of sight and you might survive
 
-![Camp Hillberry Labratories](docs/Camp%20Hillberry%20Labratories.png)
+![Camp Hillberry Labratories](Camp%20Hillberry%20Labratories.png)
 
 ## Battlemage Training
 #### Become the strongest wizard
