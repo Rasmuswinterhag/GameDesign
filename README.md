@@ -5,7 +5,7 @@ A spy hitman type game
 
 ![Secret Mission](https://github.com/Rasmuswinterhag/GameDesign/blob/main/Secret%20Mission.png)
 
-##Camp Hillberry Labratories
+## Camp Hillberry Labratories
 #### Stay out of sight and you might survive
 
 ![Camp Hillberry Labratories](https://github.com/Rasmuswinterhag/GameDesign/blob/main/Camp%20Hillberry%20Labratories.png)
