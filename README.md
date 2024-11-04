@@ -1,5 +1,5 @@
 # GameDesign
-
+The submissions are in the [SUBMISSION - GameDocuments](SUBMISSION-GameDocuments) folder
 ## Secret mission
 #### Kill or be killed
 A spy hitman type game
